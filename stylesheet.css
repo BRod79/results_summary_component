@@ -212,7 +212,6 @@ button:active {
    }
     main {
       margin-top: -25px;
-      background-color: cyan;
       height: 100%;
       width: 100%;
       border-radius: 0px;
@@ -356,28 +355,16 @@ button:active {
    width: 80%;
    height: 55px;
    position: relative;
-   margin: 89 auto;
-   /* margin-top: 89px;
-   margin-left: 0px; */
+   margin: 89px auto;
    }
-   
-   /* .attribution { 
-      font-size: 11px; 
-      text-align: center; 
-      position: absolute;
-      width: 80%;
-      display: block;
-      margin-top: 70px;
-      padding-bottom: 40px;
-      margin-left: 0px;
-   } 
-   */
+
 
    .attribution { 
       font-size: 11px; 
       position: relative;
       width: 80%;
       margin: 0px auto;
+      padding-bottom: 40px;
 
 
    .attribution a { 
