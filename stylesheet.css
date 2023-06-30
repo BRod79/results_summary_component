@@ -97,7 +97,7 @@ main {
    color: var(--white);
    font-size: 24px;
    margin-top: 25px;
-   margin-left: 105;
+   margin-left: 105px;
 }
 
 .message {
@@ -264,7 +264,7 @@ button:active {
    }
    .mainresult {
       color: var(--white);
-      font-size: 90;
+      font-size: 90px;
       font-weight: 800;
       margin: 50%;
       padding-top: 15px;
